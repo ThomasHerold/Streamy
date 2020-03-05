@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "My Strean",
+      "description": "Best Stream",
+      "id": 1
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "id": 2
+    },
+    {
+      "title": "I Created This Stream",
+      "description": "Refactored by Me",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "I changed this with a PATCH request",
+      "id": 4
+    }
+  ]
+}
